@@ -1,5 +1,5 @@
-# Find the GCD of two numbers
-
+# 1c. Find the GCD of two numbers
+## Date: 29.08.202
 ## AIM:
 To write a program to find the GCD of two numbers using function.
 
